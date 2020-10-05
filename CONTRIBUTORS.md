@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [NIKHITA MARIAM CHERIAN](https://github.com/nikhitacherian)
+- Place: Kerala, India
+- Bio: Student
+- Github: [NIKHITA MARIAM CHERIAN](https://github.com/nikhitacherian)
